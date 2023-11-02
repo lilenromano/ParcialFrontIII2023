@@ -1,0 +1,26 @@
+h3{
+    color: green;
+}
+
+.card{
+    background-color: darkgray;
+    width: 400px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.card-img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px
+}
